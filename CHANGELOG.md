@@ -1,6 +1,8 @@
 # Histórico de Alterações (Changelog)
 
 ## Commits Recentes
+* Add GitHub Actions CI workflow for Hello World (837d51b)
+* docs: update CHANGELOG.md [skip ci] (d9e8ca5)
 * Add GitHub Actions workflow for release packaging (b03d556)
 * docs: update CHANGELOG.md [skip ci] (38723ab)
 * Add workflow to generate and update CHANGELOG.md (ddb7b6f)
