@@ -1,6 +1,8 @@
 # Histórico de Alterações (Changelog)
 
 ## Commits Recentes
+* Update README with project overview and workflows (519a239)
+* docs: update CHANGELOG.md [skip ci] (17f783a)
 * Add initial README with project details (003d13d)
 * docs: update CHANGELOG.md [skip ci] (a61fc40)
 * Add GitHub Actions CI workflow for Hello World (837d51b)
