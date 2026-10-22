@@ -1,6 +1,8 @@
 # Histórico de Alterações (Changelog)
 
 ## Commits Recentes
+* Add initial README with project details (003d13d)
+* docs: update CHANGELOG.md [skip ci] (a61fc40)
 * Add GitHub Actions CI workflow for Hello World (837d51b)
 * docs: update CHANGELOG.md [skip ci] (d9e8ca5)
 * Add GitHub Actions workflow for release packaging (b03d556)
