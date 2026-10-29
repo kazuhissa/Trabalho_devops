@@ -1,6 +1,8 @@
 # Histórico de Alterações (Changelog)
 
 ## Commits Recentes
+* Atualiza seções do README.md sobre DevOps (5c44f19)
+* docs: update CHANGELOG.md [skip ci] (7c9c604)
 * Revise e melhore a documentação do README.md (91ff761)
 * docs: update CHANGELOG.md [skip ci] (0f5f8ea)
 * Update README with project overview and workflows (519a239)
